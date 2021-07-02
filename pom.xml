@@ -69,11 +69,11 @@
                         </relocation>
                         <relocation>
                             <pattern>co.aikar.locales</pattern>
-                            <shadedPattern>net.ucrafts.bans.hub.locales</shadedPattern>
+                            <shadedPattern>net.ucrafts.hub.locales</shadedPattern>
                         </relocation>
                         <relocation>
                             <pattern>de.leonhard.storage</pattern>
-                            <shadedPattern>net.ucrafts.bans.hub.storage</shadedPattern>
+                            <shadedPattern>net.ucrafts.hub.storage</shadedPattern>
                         </relocation>
                     </relocations>
                 </configuration>
